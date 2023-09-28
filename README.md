@@ -2,7 +2,7 @@
 
 
 ## Overview
-This Arduino-based temperature stabilization system, developed by [Michael Chukwukere](https://www.linkedin.com/in/chxxvo/)), is a digital thermometer with servo motor control. It measures temperature using an LM35 temperature sensor, displays the temperature reading on a 16x2 LCD screen, and controls two servo motors based on temperature thresholds. The 
+This Arduino-based temperature stabilization system, developed by [Michael Chukwukere](https://www.linkedin.com/in/chxxvo/), is a digital thermometer with servo motor control. It measures temperature using an LM35 temperature sensor, displays the temperature reading on a 16x2 LCD screen, and controls two servo motors based on temperature thresholds. The 
 
 ## Table of Contents
 - [Components](#components)
