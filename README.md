@@ -42,3 +42,11 @@ Ensure your components are wired as follows:
 
    ```bash
    git clone https://github.com/Derimius/Digital-Thermometer-with-Servo-Control.git
+
+## Usage 
+1. Upload the sketch to your Arduino board.
+2. Power on the system.
+3. The LCD display will show the current temperature in Celsius.
+4. The servo motors will respond to temperature changes based on the predefined thresholds.
+
+Feel free to customize the temperature thresholds or servo positions in the Arduino sketch to suit your needs.
