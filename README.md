@@ -50,3 +50,6 @@ Ensure your components are wired as follows:
 4. The servo motors will respond to temperature changes based on the predefined thresholds.
 
 Feel free to customize the temperature thresholds or servo positions in the Arduino sketch to suit your needs.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
